@@ -1,5 +1,11 @@
 # Projeto_Senac
 <h1 align="center">Projeto Integrador - Dragon's Reviews</h1>
+<h4 align="center">
+🐲 Dragon's Reviews 🐉
+</h4>
+<h4 align="center> 
+	🚧 Em construção... 🚧
+</h4>
 
 <p align="center">Site voltado para área de jogos feito em grupo para a apresentação de um projeto integrador no Senac.</p>
 <p align="center">Dragon's Reviews foi criado para  aquelas pessoas que procuram facilidade em encontrar reviews de alguns jogos. O site ainda precisa de muitas complementações, mas achei bem bacana como foi criado e o quanto trabalhamos duro para deixá-lo pronto.</p>
