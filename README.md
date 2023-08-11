@@ -15,7 +15,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <br>
 
 <h4 align="center">
-🚧 Em construção... 🚧
+🐲 Dragon's Reviews 🐲
 </h4>
 <h4 align="center> 
 🚧 Em construção... 🚧
