@@ -3,6 +3,16 @@
 
 <p align="center">Site voltado para área de jogos feito em grupo para a apresentação de um projeto integrador no Senac.</p>
 <p align="center">Dragon's Reviews foi criado para  aquelas pessoas que procuram facilidade em encontrar reviews de alguns jogos. O site ainda precisa de muitas complementações, mas achei bem bacana como foi criado e o quanto trabalhamos duro para deixá-lo pronto.</p>
+<p>
+🛠 Tecnologias Utilizadas
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- HTML = Nos permite construir websites e fazer a inserção de novos conteúdos como imagens e vídeos por meio de hipertextos.
+- CSS = Trabalha a parte visual da página web, tendo como tarefa separar o conteúdo do site da apresentação visual, assim como todo os aspecto estético da página.
+- JavaScript = Nos possibilitou dar funcionalidades em algumas de nossas páginas HTMl e executar comandos.
+</p>
+<br>
 
 <h4 align="center">
 🐲 Dragon's Reviews 🐉
