@@ -20,17 +20,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <h4 align="center> 
 	🚧 Em construção... 🚧
 </h4>
-
-<p>
-🛠 Tecnologias Utilizadas
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- HTML = Nos permite construir websites e fazer a inserção de novos conteúdos como imagens e vídeos por meio de hipertextos.
-- CSS = Trabalha a parte visual da página web, tendo como tarefa separar o conteúdo do site da apresentação visual, assim como todo os aspecto estético da página.
-- JavaScript = Nos possibilitou dar funcionalidades em algumas de nossas páginas HTMl e executar comandos.
-</p>
-<br>
 <p align="center> 
   
 MIT License
